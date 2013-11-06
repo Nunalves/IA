@@ -1,0 +1,12 @@
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\bin\Debug\mochila.exe.config
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\bin\Debug\mochila.exe
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\bin\Debug\mochila.pdb
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\obj\Debug\mochila.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\obj\Debug\mochila.exe
+C:\Users\Nuno Alves\Documents\Visual Studio 2012\Projects\IntArt\mochila\mochila\obj\Debug\mochila.pdb
+D:\Projects\IntArt\mochila\mochila\bin\Debug\mochila.exe.config
+D:\Projects\IntArt\mochila\mochila\obj\Debug\mochila.exe
+D:\Projects\IntArt\mochila\mochila\obj\Debug\mochila.pdb
+C:\Users\Nuno Alves\Documents\GitHub\IA\mochila\mochila\bin\Debug\mochila.exe.config
+C:\Users\Nuno Alves\Documents\GitHub\IA\mochila\mochila\obj\Debug\mochila.exe
+C:\Users\Nuno Alves\Documents\GitHub\IA\mochila\mochila\obj\Debug\mochila.pdb
